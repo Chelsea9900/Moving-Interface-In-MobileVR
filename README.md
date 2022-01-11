@@ -1,4 +1,4 @@
-# 🎯 PLEASE SWITCH BRACH "main" -> "master" IF YOU WANT TO WATCH SCRIPTS. 
+# 🎯 Please switch branch "main" -> "master" if you want to see scripts.
 # 🎯 Moving-Interface-In-MobileVR
 
 2021 한국컴퓨터그래픽스학회 학술대회
